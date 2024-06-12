@@ -1,8 +1,7 @@
 # Collaborative-Deep-Learning
 Code for " A Decentralized Approach based on Collaborative Deep Learning for Secure Data Sharing: Beyond Federated Learning"
 Overview
-Welcome to the repository for the paper titled "A Decentralized Approach based on Collaborative Deep Learning for Secure Data Sharing: Beyond Federated Learning." This paper is submitted to the Artificial Intelligence Review Journal.
-
+Welcome to the repository for the paper titled "A Decentralized Approach based on Collaborative Deep Learning for Secure Data Sharing: Beyond Federated Learning." 
 Introduction
 This repository contains the code associated with the paper, which presents a decentralized approach using collaborative deep learning techniques to ensure secure data sharing. This approach goes beyond traditional federated learning by enhancing data privacy and model performance.
 
